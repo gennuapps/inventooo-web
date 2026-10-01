@@ -61843,7 +61843,7 @@ A.auF.prototype={}
 A.aME.prototype={}
 A.aMT.prototype={}
 A.apV.prototype={
-aXq(a,b,c,d,e,f,g,h,i,j,k){throw A.e(A.eL("pickFile() has not been implemented."))}}
+aXq(a,b,c,d,e,f,g,h,i,j,k){throw A.e(A.eL("pickFiles() has not been implemented."))}}
 A.axK.prototype={}
 A.la.prototype={
 E(){return"AnimationStatus."+this.b},
