@@ -143183,7 +143183,7 @@ $1(a){var s,r=this,q=null,p=t.n_,o=A.b([],p),n=r.a.a
 if(n!=null)B.m.L(o,A.b([A.IT(q,A.bzI(n,B.Xv),q,q,34,q,34),new A.jp(12,q,q)],p))
 n=A.ox(r.b.d,q,A.EJ(q,B.oO,q,q,q,q,q,q,q,B.ea,q,q,16,q,B.dH,q,!0,q,q,q,q),q,q)
 s=r.c
-o.push(A.apQ(A.ame(A.b([n,A.ox(s.ga2(s)?"Inventarliste":"Inventarliste \u2013 "+r.d,q,B.bq5,q,q)],p),B.mg,B.kH)))
+o.push(A.apQ(A.ame(A.b([n,A.ox(s.ga2(s)?"Inventarliste":"Inventarliste - "+r.d,q,B.bq5,q,q)],p),B.mg,B.kH)))
 o.push(A.ox("Erstellt: "+r.e,q,B.bqr,q,q))
 return A.IT(q,A.aFA(o,B.mh,B.kH),q,B.Xs,q,B.a33,q)},
 $S:877}
